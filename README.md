@@ -8,7 +8,39 @@ Video/Photos project working <br>
 link <br>
 
 
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/001.jpg?raw=true" height="300" widht="300" > <img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/002.jpg?raw=true" height="300" widht="300" > <br>
 
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/003.jpg?raw=true" height="300" widht="300" > <img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/004.jpg?raw=true" height="300" widht="300" > <br>
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/005.jpg?raw=true" height="300" widht="300" >
+
+
+
+
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/011.jpg?raw=true" height="300" widht="300" > <img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/012.jpg?raw=true" height="300" widht="300" > <br>
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/013.jpg?raw=true" height="300" widht="300" > <img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/014.jpg?raw=true" height="300" widht="300" > <br>
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/015.jpg?raw=true" height="300" widht="300" > <img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/016.jpg?raw=true" height="300" widht="300" > <br>
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/017.jpg?raw=true" height="300" widht="300" > <img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/018.jpg?raw=true" height="300" widht="300" > <br>
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/019.jpg?raw=true" height="300" widht="300" >
+
+
+
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/021.jpg?raw=true" height="300" widht="300" > <img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/022.jpg?raw=true" height="300" widht="300" > <br>
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/023.jpg?raw=true" height="300" widht="300" > <img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/024.jpg?raw=true" height="300" widht="300" > <br>
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/025.jpg?raw=true" height="300" widht="300" > <img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/026.jpg?raw=true" height="300" widht="300" > <br>
+
+
+
+
+<img src="https://github.com/mariliahoshino/Lantern/blob/main/Pictures/Photos/031.jpg?raw=true" height="300" widht="300" > 
 
 
 
